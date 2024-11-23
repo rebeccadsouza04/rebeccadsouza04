@@ -91,14 +91,10 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white) - The Complete Web Developer in 2022
 
 
-## 📚 Projects
-1. **[Project Name](#)**  
-   - _Description_: Brief summary of what it does.  
-   - _Tech_: Mention any standout technologies/tools.
+## 📚 📂 My GitHub Repositories
 
-2. **[Project Name](#)**  
-   - _Description_: Brief summary of what it does.  
-   - _Tech_: Mention any standout technologies/tools.
+GET https://api.github.com/repos/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality
+
 
 ---
 
