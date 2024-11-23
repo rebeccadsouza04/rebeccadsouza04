@@ -93,8 +93,6 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ## 📚 📂 My GitHub Repositories
 
-## 📂 My GitHub Repositories
-
 | Repository Name        | ⭐ Stars | 🍴 Forks | 🛠️ Open Issues | 🔄 Pull Requests | 🧑‍💻 Technology Stack            |
 |------------------------|---------|----------|-----------------|------------------|---------------------------------|
 | [Interior-Design-3D-Visualization-using-Augmented-Reality](https://github.com/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality) | 2      | 0       | 0               | 0                | ![Java](https://img.shields.io/badge/Java-100%25-blue?style=flat-square)  |
@@ -107,6 +105,9 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 ---
 
 ## 📫 Let's Connect
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Website**: [Your Portfolio/Blog](https://your-website.com)
+
+- **Email**: [![Email](https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white)](mailto:rebeccadsouza04@g.ucla.edu)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-aurelia-dsouza/)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat&logo=github&logoColor=white)](https://github.com/rebeccadsouza04)
+
+
