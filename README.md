@@ -93,8 +93,13 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ## 📚 📂 My GitHub Repositories
 
-GET https://api.github.com/repos/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality
+GET 
 
+| Repository Name        | ⭐ Stars | 🍴 Forks | 🛠️ Open Issues | 🔄 Pull Requests | 🧑‍💻 Technology Stack            |
+|------------------------|---------|----------|-----------------|------------------|---------------------------------|
+| [Interior-Design-3D-Visualization-using-Augmented-Reality](https://api.github.com/repos/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality) | 1      | 0       | 2               | 1                | Python, TensorFlow, Keras       |
+
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=rebeccadsouza04&repo=Interior-Design-3D-Visualization-using-Augmented-Reality&show_owner=true&theme=dark)
 
 ---
 
