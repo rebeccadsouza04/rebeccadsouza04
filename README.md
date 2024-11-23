@@ -13,9 +13,9 @@
 
 ## 👩‍💻 About Me
 
-I am an **innovative and task-driven Computer Engineer** currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)**. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge. 
+I am an **innovative and task-driven Computer Engineer** from **India** 🇮🇳 currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)** ![UCLA Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/UCLA_logo.svg) 🎓🏫. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge.
 
-I am particularly enthusiastic about exploring and learning in the fields of **Software Development** 💻, **Data Science** 📊, and **Genomics** 🧬. I enjoy working on diverse projects, from **AI-driven applications** 🤖 to **data engineering** 🛠️, and am always looking for opportunities to contribute and grow in these areas.
+I am particularly enthusiastic about exploring and learning in the fields of **Software Development** 💻, **Data Science** 📊, and **Genomics** 🧬. I enjoy working on diverse projects, from **AI-driven applications** 🤖 to **data engineering** 🛠️, and always looking for opportunities to contribute and grow in these areas.
 
 ---
 
