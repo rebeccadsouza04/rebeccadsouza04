@@ -21,7 +21,7 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ---
 
-**[LeetCode](https://leetcode.com/u/rebeccadsouza0401/)** ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{rebeccadsouza0401}?theme={dark}&bgColor={hex_val})
 - **[WakaTime](https://wakatime.com/@your-username)** ![WakaTime](https://wakatime.com/badge/user/your-username.svg)
 - **[WakaTime](https://wakatime.com/@your-username)** ![WakaTime](https://wakatime.com/badge/user/your-username.svg)
 - **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
