@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am an **innovative and task-driven Computer Engineer** from **India** 🇮🇳 currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)** ![UCLA Logo](https://www.google.com/search?sca_esv=2438b37d9629074e&sxsrf=ADLYWIJk8XMqy_0ENOfgVdLOZe6U9mMjkw:1732406109408&q=UCLA+logo&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J6jP6aG80L-e2fp1-X3f05ehOuLXo03yoIKLWy31WZSxqtwwfFO117_gMSEAXUso2ujHDlfa4Fr6kootxTUsY9cea2Byci5ZNorwSCBAEuA9y-1T2SoXin5Nb-pij87Le6a1QB2hpUiN4gJaXOcm-uqcIxTYccItkBUMjCWSqHUbUJ5eXw&sa=X&ved=2ahUKEwjj94fW0_OJAxUAKUQIHbQYIK8QtKgLegQIIhAB&biw=1512&bih=857&dpr=2#vhid=yQ-B5boakQli-M&vssid=mosaic) 🎓🏫. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge.
+I am an **innovative and task-driven Computer Engineer** from **India** 🇮🇳 currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)** ![UCLA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/UCLA_logo.svg/1200px-UCLA_logo.svg.png) 🎓🏫. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge.
 
 I am particularly enthusiastic about exploring and learning in the fields of **Software Development** 💻, **Data Science** 📊, and **Genomics** 🧬. I enjoy working on diverse projects, from **AI-driven applications** 🤖 to **data engineering** 🛠️, and always looking for opportunities to contribute and grow in these areas.
 
