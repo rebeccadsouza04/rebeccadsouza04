@@ -100,9 +100,16 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 | [Internship-Hackathons-Identification-Mapping-Recommendation-for-Engineering-Students](https://github.com/rebeccadsouza04/Internship-Hackathons) | 2      | 0       | 0               | 0                | ![JavaScript](https://img.shields.io/badge/JavaScript-83.3%25-yellow?style=flat-square) ![Python](https://img.shields.io/badge/Python-10.4%25-blue?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-5.8%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-0.5%25-orange?style=flat-square)  |
 | [ErrorHandlers-SIH](https://github.com/rebeccadsouza04/ErrorHandlers-SIH) | 2      | 0       | 0               | 0                | ![JavaScript](https://img.shields.io/badge/JavaScript-76.0%25-yellow?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-13.6%25-orange?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-8.2%25-blue?style=flat-square) ![Pug](https://img.shields.io/badge/Pug-2.2%25-green?style=flat-square)  |
 
-
-
 ---
+
+## 📚 Publications
+
+### 🔍 Identification, Mapping and Recommendation of Internships and Hackathons for Engineering Students  
+*September 2022*  
+**Journal of Engineering, Computing & Architecture (JECA)**  
+📄 DOI: [17.0002.JECA.2022.V1209.200786.11102]
+🔗 [Read the full paper here](https://drive.google.com/file/d/1b8zy5L-Mv4jKIKBP8VNunBgC3JGuPH3h/view)
+
 
 ## 📫 Let's Connect
 
