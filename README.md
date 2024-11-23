@@ -97,8 +97,10 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 | Repository Name        | ⭐ Stars | 🍴 Forks | 🛠️ Open Issues | 🔄 Pull Requests | 🧑‍💻 Technology Stack            |
 |------------------------|---------|----------|-----------------|------------------|---------------------------------|
-| [Interior-Design-3D-Visualization-using-Augmented-Reality](https://github.com/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality) | 1      | 0       | 0               | 0                | ![Java](https://img.shields.io/badge/Java-100%25-blue?style=flat-square)  |
+| [Interior-Design-3D-Visualization-using-Augmented-Reality](https://github.com/rebeccadsouza04/Interior-Design-3D-Visualization-using-Augmented-Reality) | 2      | 0       | 0               | 0                | ![Java](https://img.shields.io/badge/Java-100%25-blue?style=flat-square)  |
 | [Marathi-FAQ-Chatbot](https://github.com/rebeccadsouza04/Marathi-FAQ-Chatbot) | 1      | 0       | 0               | 0                | ![CSS](https://img.shields.io/badge/CSS-40.9%25-blue?style=flat-square) ![Python](https://img.shields.io/badge/Python-30.0%25-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-22.5%25-yellow?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-6.6%25-orange?style=flat-square)  |
+| [Internship-Hackathons-Identification-Mapping-Recommendation-for-Engineering-Students](https://github.com/rebeccadsouza04/Internship-Hackathons) | 2      | 0       | 0               | 0                | ![JavaScript](https://img.shields.io/badge/JavaScript-83.3%25-yellow?style=flat-square) ![Python](https://img.shields.io/badge/Python-10.4%25-blue?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-5.8%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-0.5%25-orange?style=flat-square)  |
+| [ErrorHandlers-SIH](https://github.com/rebeccadsouza04/ErrorHandlers-SIH) | 2      | 0       | 0               | 0                | ![JavaScript](https://img.shields.io/badge/JavaScript-76.0%25-yellow?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-13.6%25-orange?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-8.2%25-blue?style=flat-square) ![Pug](https://img.shields.io/badge/Pug-2.2%25-green?style=flat-square)  |
 
 
 
