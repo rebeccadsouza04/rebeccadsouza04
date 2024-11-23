@@ -22,9 +22,7 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 ---
 
 [![LeetCode user rebeccadsouza0401](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frebeccadsouza0401&logo=leetcode&logoColor=yellow)](https://leetcode.com/rebeccadsouza0401/)
-- **[WakaTime](https://wakatime.com/@your-username)** ![WakaTime](https://wakatime.com/badge/user/your-username.svg)
-- **[WakaTime](https://wakatime.com/@your-username)** ![WakaTime](https://wakatime.com/badge/user/your-username.svg)
-- **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 
 ## 🔧 Tech Stack
