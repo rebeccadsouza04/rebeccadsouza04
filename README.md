@@ -1,15 +1,9 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contributions with you. Here's a quick overview:
-
 ---
 
 [![LeetCode user rebeccadsouza0401](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frebeccadsouza0401&logo=leetcode&logoColor=yellow)](https://leetcode.com/rebeccadsouza0401/)
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebeccadsouza04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
@@ -18,6 +12,10 @@ Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contr
 I am an **innovative and task-driven Computer Engineer** currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)**. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge. 
 
 I am particularly enthusiastic about exploring and learning in the fields of **Software Development** 💻, **Data Science** 📊, and **Genomics** 🧬. I enjoy working on diverse projects, from **AI-driven applications** 🤖 to **data engineering** 🛠️, and am always looking for opportunities to contribute and grow in these areas.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebeccadsouza04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
