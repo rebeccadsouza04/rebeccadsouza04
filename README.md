@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contr
 ---
 
 [![LeetCode user rebeccadsouza0401](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frebeccadsouza0401&logo=leetcode&logoColor=yellow)](https://leetcode.com/rebeccadsouza0401/)
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rebeccadsouza04&style=for-the-badge)
 
 ---
 
@@ -29,7 +29,6 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 - **AI-driven Solutions** (TensorFlow 🔥, PyTorch 🐍)
 
 ---
-
 
 ## 🔧 Tech Stack
 
@@ -79,7 +78,6 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
   <img src="https://img.shields.io/badge/Computing%20Cluster-1E1E1E?style=for-the-badge&logo=cloud&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🎓 Certifications
@@ -90,6 +88,7 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 - ![MERN Stack](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) - MERN Stack Front to Back
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white) - The Complete Web Developer in 2022
 
+---
 
 ## 📚 📂 My GitHub Repositories
 
@@ -105,14 +104,13 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 ## 📚 Publications
 
 ### 🔍 Identification, Mapping and Recommendation of Internships and Hackathons for Engineering Students  
-📄 DOI: 17.0002.JECA.2022.V1209.200786.11102
+📄 DOI: 17.0002.JECA.2022.V1209.200786.11102  
 🔗 [Read the full paper here](https://drive.google.com/file/d/1b8zy5L-Mv4jKIKBP8VNunBgC3JGuPH3h/view)
 
+---
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white)](mailto:rebeccadsouza04@g.ucla.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-aurelia-dsouza/)
+[![Email](https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white)](mailto:rebeccadsouza04@g.ucla.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-aurelia-dsouza/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat&logo=github&logoColor=white)](https://github.com/rebeccadsouza04)
-
-
