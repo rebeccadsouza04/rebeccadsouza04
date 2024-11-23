@@ -111,6 +111,14 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white)](mailto:rebeccadsouza04@g.ucla.edu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-aurelia-dsouza/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat&logo=github&logoColor=white)](https://github.com/rebeccadsouza04)
+<p align="center">
+  <a href="mailto:rebeccadsouza04@g.ucla.edu">
+    <img src="https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white" />
+  </a>  
+  <a href="https://www.linkedin.com/in/rebecca-aurelia-dsouza/">
+    <img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://github.com/rebeccadsouza04">
+    <img src="https://img.shields.io/badge/GitHub-%20-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
