@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contr
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebeccadsouza04&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
 ## 👩‍💻 About Me
 
 I am an **innovative and task-driven Computer Engineer** currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)**. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge. 
