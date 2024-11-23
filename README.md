@@ -21,6 +21,11 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ---
 
+- **[LeetCode](https://leetcode.com/your-username/)** ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+- **[WakaTime](https://wakatime.com/@your-username)** ![WakaTime](https://wakatime.com/badge/user/your-username.svg)
+- **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
 ## 🔧 Tech Stack
 
 <p>
