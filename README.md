@@ -62,6 +62,15 @@ Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contr
 
 ---
 
+## 🎓 Certifications
+
+- ![Google Data Analytics Specialization](https://img.shields.io/badge/Google%20Data%20Analytics%20Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white) - Google Data Analytics Specialization
+- ![Flutter Bootcamp](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) - The Complete 2021 Flutter Development Bootcamp with Dart
+- ![Python Bootcamp](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - 2022 Complete Python Bootcamp
+- ![MERN Stack](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) - MERN Stack Front to Back
+- ![Web Development](https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white) - The Complete Web Developer in 2022
+
+
 ## 📚 Projects
 1. **[Project Name](#)**  
    - _Description_: Brief summary of what it does.  
