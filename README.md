@@ -105,9 +105,7 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 ## 📚 Publications
 
 ### 🔍 Identification, Mapping and Recommendation of Internships and Hackathons for Engineering Students  
-*September 2022*  
-**Journal of Engineering, Computing & Architecture (JECA)**  
-📄 DOI: [17.0002.JECA.2022.V1209.200786.11102]
+📄 DOI: 17.0002.JECA.2022.V1209.200786.11102
 🔗 [Read the full paper here](https://drive.google.com/file/d/1b8zy5L-Mv4jKIKBP8VNunBgC3JGuPH3h/view)
 
 
