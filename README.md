@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm excited to share my projects, ideas, and contr
 ---
 
 [![LeetCode user rebeccadsouza0401](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frebeccadsouza0401&logo=leetcode&logoColor=yellow)](https://leetcode.com/rebeccadsouza0401/)
-![Profile Views](https://komarev.com/ghpvc/?username=rebeccadsouza04&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ---
 
