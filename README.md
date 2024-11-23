@@ -109,8 +109,9 @@ I am particularly enthusiastic about exploring and learning in the fields of **S
 
 ---
 
+## 📫 Let's Connect
+
 <p align="center">
-  ## 📫 Let's Connect
   <a href="mailto:rebeccadsouza04@g.ucla.edu">
     <img src="https://img.shields.io/badge/Email-📧-blue?style=flat&logo=gmail&logoColor=white" />
   </a>  
