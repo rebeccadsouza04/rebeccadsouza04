@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am an **innovative and task-driven Computer Engineer** from **India** 🇮🇳 currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)** <img src="https://cdn.freebiesupply.com/images/large/2x/ucla-logo-png-transparent.png" width="20" height="20"> 🎓🏫. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge.
+I am an **innovative and task-driven Computer Engineer** from **India** 🇮🇳 currently pursuing my **Master’s in Computer Science** at the **University of California, Los Angeles (UCLA)** <img src="https://cdn.freebiesupply.com/images/large/2x/ucla-logo-png-transparent.png" width="20" height="20"> 🎓🏫, and I am living in the **United States** 🇺🇸. I am passionate about researching and developing solutions to real-world challenges, thriving on coding and continuously seeking to enhance my knowledge.
 
 I am particularly enthusiastic about exploring and learning in the fields of **Software Development** 💻, **Data Science** 📊, and **Genomics** 🧬. I enjoy working on diverse projects, from **AI-driven applications** 🤖 to **data engineering** 🛠️, and always looking for opportunities to contribute and grow in these areas.
 
